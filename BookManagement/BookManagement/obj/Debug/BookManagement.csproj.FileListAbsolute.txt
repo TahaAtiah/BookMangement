@@ -1,0 +1,28 @@
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\bin\Debug\Bunifu_UI_v1.52.dll
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\obj\Debug\BookManagement.csprojResolveAssemblyReference.cache
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\obj\Debug\BookManagement.Form1.resources
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.Cache
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+D:\3تقنية معلومات سنة ثالثة\Desktop\Applications\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\bin\Debug\DBBOOK.mdf
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\bin\Debug\DBBOOK_log.ldf
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.csprojResolveAssemblyReference.cache
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.Form1.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.Properties.Resources.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.GenerateResource.Cache
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.FrmAdd.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.FrmCat.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.Frm_Dl_Add.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.Frm_Dl_Delete.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.Frm_Dl_Edit.resources
+C:\Users\MC\Documents\Visual Studio 2015\Projects\BookManagement\BookManagement\obj\Debug\BookManagement.FrmDetails.resources
